@@ -33,6 +33,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 
 
 ## Methods
+<a id="Methods"></a>
 ### Visual-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: 
@@ -100,6 +101,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 
 
 ## Datasets & Benchmarks
+<a id="Datasets--Benchmark"></a>
 ### Visual-based data
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
@@ -127,7 +129,9 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 |  <br/>[Unfolding Spatial Cognition: Evaluating Multimodal Models on Visual Simulations](https://arxiv.org/pdf/2506.04633) |   <img width="700" alt="image" src="imgs/STARE.png">   | 2025-06 |             [Github](https://github.com/VisionXLab/SpaCE-10) 
 |  <br/>[OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models](https://arxiv.org/pdf/2506.03135) |   <img width="700" alt="image" src="imgs/OmniSpatial.png">   | 2025-06 |             [Github](https://github.com/qizekun/OmniSpatial) 
 |  <br/>[InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models](https://arxiv.org/pdf/2506.18385) |   <img width="700" alt="image" src="imgs/InternSpatial.png">   | 2025-06 |           -|
-|  <br/>[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](https://arxiv.org/pdf/2505.23764) |   <img width="700" alt="image" src="imgs/MMSI.png">   | 2025-05 |             [Github](https://runsenxu.com/projects/MMSI_Bench) 
+|  <br/>[MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence](https://arxiv.org/pdf/2505.23764) |   <img width="700" alt="image" src="imgs/MMSI.png">   | 2025-05 |             [Github](https://runsenxu.com/projects/MMSI_Bench)
+| [![Publish](https://img.shields.io/badge/Conference-ICCV'25-blue)]() <br/>[GEOBench-VLM: A Benchmark for Geospatial Tasks](https://arxiv.org/pdf/2411.19325) | <img width="700" alt="image" src="imgs/GEOBench.jpg"> | 2025-05 | [Github](https://github.com/The-AI-Alliance/GEO-Bench-VLM) |
+| <br/>[EgoExoBench: Cross-View Video Understanding in MLLMs](https://arxiv.org/pdf/2507.18342) | <img width="700" alt="image" src="imgs/EgoExoBench.png"> | 2025-05 | [GitHub](https://github.com/ayiyayi/EgoExoBench.git) | 
 |  <br/>[Multi-SpatialMLLM: Multi-Frame Spatial Understanding with Multi-Modal Large Language Models](https://arxiv.org/pdf/2505.17015) |   <img width="700" alt="image" src="imgs/Multi-SpatialMLLM.png">   | 2025-05 |             [Github](https://runsenxu.com/projects/Multi-SpatialMLLM)  
 |  <br/>[SpatialScore: Towards Unified Evaluation for Multimodal Spatial Understanding](https://arxiv.org/pdf/2505.17012) |   <img width="700" alt="image" src="imgs/SpatialScore.png">   | 2025-05 |  [Github](https://haoningwu3639.github.io/SpatialScore) |
 |  <br/>[MIRAGE:A Multi-modal Benchmark for Spatial Perception, Reasoning, and Intelligence](https://arxiv.org/pdf/2505.10604) |   <img width="700" alt="image" src="imgs/Mirage.png">   | 2025-05 |  [Github](https://github.com/khazic/Mirage) |
@@ -182,6 +186,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 |  <br/>[GRASP: A Grid-Based Benchmark for Evaluating Commonsense Spatial Reasoning](https://arxiv.org/abs/2407.01892) |   <img width="700" alt="image" src="imgs/grasp.png">   | 2024-07 |  -   |
 
 ## Findings
+<a id="Applications"></a>
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
 |  <br/>[Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks](https://arxiv.org/pdf/2510.25760) |   <img width="700" alt="image" src="imgs/MMSR.png">   | 2025-10 |    [Github](https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning)   |
