@@ -99,6 +99,15 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 
 
 ## Datasets & Benchmarks
+### Core Training Datasets
+
+| Title | Introduction | Date | Code |
+| :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+| <br/>[SpatialLadder-26k: Spatial Reasoning QA Pairs](https://huggingface.co/datasets/hongxingli/SpatialLadder-26k ) | <img width="700" alt="image" src="imgs/SpatialLadder26k.png"> | 2025-08 | [HuggingFace](https://huggingface.co/datasets/hongxingli/SpatialLadder-26k ) |
+| <br/>[MMC4-Core: Multimodal C4 Corpus](https://github.com/allenai/mmc4 ) | <img width="700" alt="image" src="imgs/MMC4.png"> | 2023-06 | [GitHub](https://github.com/allenai/mmc4 ) |
+| <br/>[COYO-700M: High-Quality Image-Text Dataset](https://huggingface.co/datasets/kakaobrain/coyo-700m ) | <img width="700" alt="image" src="imgs/COYO.png"> | 2022-09 | [HuggingFace](https://huggingface.co/datasets/kakaobrain/coyo-700m ) |
+| <br/>[LAION-5B: A Large-scale Dataset for Vision-Language Pretraining](https://laion.ai/blog/laion-5b/ ) | <img width="700" alt="image" src="imgs/LAION5B.png"> | 2022-03 | [Website](https://laion.ai/blog/laion-5b/ ) |
+| <br/>[Visual Genome: Dense Visual Annotations](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html ) | <img width="700" alt="image" src="imgs/VisualGenome.png"> | 2016-02 | [Website](https://homes.cs.washington.edu/~ranjay/visualgenome/index.html ) |
 ### Visual-based data
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
