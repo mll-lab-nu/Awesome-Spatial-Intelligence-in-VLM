@@ -91,6 +91,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Text-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: |
+| <br/>[BAP v2: An Enhanced Task Framework for Instruction Following in Minecraft Dialogues](https://arxiv.org/abs/2501.10836) |   <img width="700" alt="image" src="imgs/bapv2.png">   | 2025-09 |   [Github](https://huggingface.co/prashant-jayan21/Llama-CRAFTS)       |
 | <br/>[Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/abs/2501.07542) |   <img width="700" alt="image" src="imgs/MVoT.png">   | 2025-01 |   -       |
 | <br/>[Dspy-based Neural-Symbolic Pipeline to Enhance Spatial Reasoning in LLMs](https://arxiv.org/abs/2411.18564) |   <img width="700" alt="image" src="imgs/ASP.png">   | 2024-11 |       -       |
 |  [![Publish](https://img.shields.io/badge/Conference-NIPS'24-blue)]()<br/>[Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning](https://arxiv.org/abs/2410.16162) |   <img width="700" alt="image" src="imgs/Sparkle.png">   | 2024-10 |     -     |
