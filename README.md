@@ -118,6 +118,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual-based data
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+| <br/>[Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text](https://arxiv.org/abs/2607.21072) | <img width="700" alt="image" src="imgs/ProVisE.png">| 2026-07 | [Github](https://github.com/ZJU-OmniAI/ProVisE) |
 | <br/>[EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding](https://arxiv.org/abs/2601.01547) | <img width="700" alt="image" src="imgs/EscherVerse.png">| 2026-1 | [Github](https://github.com/Grady10086/EscherVerse) |
 | <br/>[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2512.13660) | <img width="700" alt="image" src="imgs/TraceSpatial-Bench.png">| 2025-12 | [Github](https://github.com/Zhoues/RoboTracer) |
 | <br/>[Towards Cross-View Point Correspondence in Vision-Language Models](https://arxiv.org/pdf/2512.04686) | <img width="700" alt="image" src="imgs/CrossPoint.png">| 2025-12 | [Github](https://github.com/WangYipu2002/CrossPoint) |
