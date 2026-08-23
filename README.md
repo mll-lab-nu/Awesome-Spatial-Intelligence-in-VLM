@@ -36,6 +36,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: |
+| <br/>[Planning with the Views](https://arxiv.org/abs/2605.29563) | <img width="700" alt="image" src="imgs/ViewAgent.png">| 2026-05 | [Github](https://viewagent.github.io/) |
 | <br/>[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2512.13660) | <img width="700" alt="image" src="imgs/Robotracer.png">| 2025-12 | [Github](https://github.com/Zhoues/RoboTracer) |
 | <br/>[N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models](https://arxiv.org/html/2512.16561v1) | <img width="700" alt="image" src="imgs/N3D.png">| 2025-12 | [Github](https://n3d-vlm.github.io/) |
 | <br/>[SpatialDreamer: Incentivizing Spatial Reasoning via Active Mental Imagery](https://arxiv.org/pdf/2512.07733) | <img width="700" alt="image" src="imgs/SpatialDreamer.png">| 2025-12 | [Github](https://github.com/mengcaopku/SpatialDreamer) |
@@ -118,6 +119,8 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual-based data
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+| <br/>[Planning with the Views](https://arxiv.org/abs/2605.29563) | <img width="700" alt="image" src="imgs/ViewSuite.png">| 2026-05 | [Github](https://viewagent.github.io/) |
+| [![Publish](https://img.shields.io/badge/Conference-ICLR'26-blue)]()<br/>[Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?](https://arxiv.org/abs/2602.07055) | <img width="700" alt="image" src="imgs/TheoryOfSpace.png">| 2026-02 | [Github](https://theory-of-space.github.io/) |
 | <br/>[EscherVerse: An Open World Benchmark and Dataset for Teleo-Spatial Intelligence with Physical-Dynamic and Intent-Driven Understanding](https://arxiv.org/abs/2601.01547) | <img width="700" alt="image" src="imgs/EscherVerse.png">| 2026-1 | [Github](https://github.com/Grady10086/EscherVerse) |
 | <br/>[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2512.13660) | <img width="700" alt="image" src="imgs/TraceSpatial-Bench.png">| 2025-12 | [Github](https://github.com/Zhoues/RoboTracer) |
 | <br/>[Towards Cross-View Point Correspondence in Vision-Language Models](https://arxiv.org/pdf/2512.04686) | <img width="700" alt="image" src="imgs/CrossPoint.png">| 2025-12 | [Github](https://github.com/WangYipu2002/CrossPoint) |
