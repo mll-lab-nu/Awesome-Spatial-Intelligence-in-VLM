@@ -210,6 +210,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ## Findings
 | Title                                                        |                         Introduction                         |    Date    |                           Code                           |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------: | :------------------------------------------------------: |
+|  <br/>[Towards a Data-Centric Understanding of Spatial Reasoning in Multimodal Large Language Models](https://arxiv.org/pdf/2610.19108) |   <img width="700" alt="image" src="imgs/datacentric.png">   | 2026-10 |    [GitHub](https://github.com/Masoudjafaripour/Multimodal_Datasets_Generative_Reasoning)  |
 |  <br/>[Multimodal Spatial Reasoning in the Large Model Era: A Survey and Benchmarks](https://arxiv.org/pdf/2510.25760) |   <img width="700" alt="image" src="imgs/MMSR.png">   | 2025-10 |    [Github](https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning)   |
 |  <br/>[How Far are VLMs from Visual Spatial Intelligence? A Benchmark-Driven Perspective](https://arxiv.org/abs/2509.18905) |   <img width="700" alt="image" src="imgs/howfar.png">   | 2025-09 |     [Github](https://sibench.github.io/Awesome-Visual-Spatial-Reasoning/)   |
 |  <br/>[Has GPT-5 Achieved Spatial Intelligence? An Empirical Study](https://arxiv.org/pdf/2508.13142v1) |   <img width="700" alt="image" src="imgs/GPT5.png">   | 2025-08 |    -  |
