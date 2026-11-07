@@ -36,6 +36,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 ### Visual-based methods
 | Title                                                        |                        Introduction                         |    Date    |                             Code                             |
 | :----------------------------------------------------------- | :---------------------------------------------------------: | :--------: | :----------------------------------------------------------: |
+| <br/>[MJev-Spatial: System One Spatial Intelligence via Native Attention Matching](https://arxiv.org/abs/2610.22276) | <img width="700" alt="MJev-Spatial overview" src="https://raw.githubusercontent.com/Fr0zenCrane/MJev-Spatial/main/assets/figure-1-teaser.png"> | 2026-10 | [Github](https://github.com/Fr0zenCrane/MJev-Spatial) |
 | <br/>[Planning with the Views](https://arxiv.org/abs/2605.29563) | <img width="700" alt="image" src="imgs/ViewAgent.png">| 2026-05 | [Github](https://viewagent.github.io/) |
 | <br/>[RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics](https://arxiv.org/pdf/2512.13660) | <img width="700" alt="image" src="imgs/Robotracer.png">| 2025-12 | [Github](https://github.com/Zhoues/RoboTracer) |
 | <br/>[N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models](https://arxiv.org/html/2512.16561v1) | <img width="700" alt="image" src="imgs/N3D.png">| 2025-12 | [Github](https://n3d-vlm.github.io/) |
